@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         var a = 10
         var ace = "use"
         var main = "string"
+        var good = "goood"
     }
 }
